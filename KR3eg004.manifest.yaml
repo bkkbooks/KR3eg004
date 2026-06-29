@@ -1,0 +1,921 @@
+canonical_identifier: bkk:krp/KR3eg004/v1
+canonical_location: https://kanripo.org/bkk/KR3eg004/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 溫疫論
+  identifiers:
+    krp: KR3eg004
+  tags:
+    kr-categories: KR3eg
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg004.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eg004_000.yaml, hash: 'sha256:42253d71e4f76028b466ac14eab629fda425d82382b8992e423f48fa7f15628f'}
+  - {seq: 1, filename: KR3eg004_001.yaml, hash: 'sha256:cfe9a5769d6d25f157ad91d7d022bea31f08343308e1c9f6998b0fb585d85aa6'}
+  - {seq: 3, filename: KR3eg004_003.yaml, hash: 'sha256:f9bf0d14de6570cd428aa07cb5f2eeb6e8896f6098131dddc507bc7f4b6f4a4d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eg004_000.markers.yaml, hash: 'sha256:ab40b589459e5f461be5154daa30833efb6b8b092c75a83badaf1ccdccd555eb'}
+  - {seq: 1, role: markers, filename: assets/KR3eg004_001.markers.yaml, hash: 'sha256:f5ceb9f446cfc60999fc4a285676ad5f8c857f5235fa13da3afd35097d0c16c7'}
+  - {seq: 3, role: markers, filename: assets/KR3eg004_003.markers.yaml, hash: 'sha256:fee4276f2736f197525ef94daedec418dfff51b8a7e9ea77a97a5a38aa3ab8e6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eg004_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 760
+  label: 自敘
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 15412
+  label: 上卷
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 1067
+  label: 原病
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d3
+    span:
+    - body
+    - 1067
+    - 1830
+  label: 溫疫初起
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d4
+    span:
+    - body
+    - 1830
+    - 2127
+  label: 傳變不常
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d5
+    span:
+    - body
+    - 2127
+    - 2314
+  label: 急證急攻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d6
+    span:
+    - body
+    - 2314
+    - 2431
+  label: 表裡分傳
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d7
+    span:
+    - body
+    - 2431
+    - 2686
+  label: 熱邪散漫
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d8
+    span:
+    - body
+    - 2686
+    - 2894
+  label: 內壅不汗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d9
+    span:
+    - body
+    - 2894
+    - 3072
+  label: 下後脈浮
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d10
+    span:
+    - body
+    - 3072
+    - 3132
+  label: 下後脈復沉
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d11
+    span:
+    - body
+    - 3132
+    - 3213
+  label: 邪氣復聚
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d12
+    span:
+    - body
+    - 3213
+    - 3340
+  label: 下後身反熱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d13
+    span:
+    - body
+    - 3340
+    - 3443
+  label: 下後脈反數
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d14
+    span:
+    - body
+    - 3443
+    - 3897
+  label: 因證數攻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d15
+    span:
+    - body
+    - 3897
+    - 4010
+  label: 病愈結存
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d16
+    span:
+    - body
+    - 4010
+    - 4208
+  label: 下格
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d17
+    span:
+    - body
+    - 4208
+    - 5116
+  label: 注意逐邪勿拘結糞
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d18
+    span:
+    - body
+    - 5116
+    - 5779
+  label: 蓄血
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d19
+    span:
+    - body
+    - 5779
+    - 6065
+  label: 發黃
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d20
+    span:
+    - body
+    - 6065
+    - 6189
+  label: 邪在胸膈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d21
+    span:
+    - body
+    - 6189
+    - 7053
+  label: 辨明傷寒時疫
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d22
+    span:
+    - body
+    - 7053
+    - 7134
+  label: 發斑戰汗合論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d23
+    span:
+    - body
+    - 7134
+    - 7503
+  label: 戰汗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d24
+    span:
+    - body
+    - 7503
+    - 7771
+  label: 自汗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d25
+    span:
+    - body
+    - 7771
+    - 8062
+  label: 盜汗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d26
+    span:
+    - body
+    - 8062
+    - 8119
+  label: 狂汗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d27
+    span:
+    - body
+    - 8119
+    - 8304
+  label: 發斑
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d28
+    span:
+    - body
+    - 8304
+    - 8378
+  label: 數下亡陰
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d29
+    span:
+    - body
+    - 8378
+    - 8703
+  label: 解後宜養陰忌投參朮
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d30
+    span:
+    - body
+    - 8703
+    - 9059
+  label: 用參宜忌有前利後害之不同
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d31
+    span:
+    - body
+    - 9059
+    - 9137
+  label: 下後間服緩劑
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d32
+    span:
+    - body
+    - 9137
+    - 9342
+  label: 下後反痞
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d33
+    span:
+    - body
+    - 9342
+    - 9535
+  label: 下後反嘔
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d34
+    span:
+    - body
+    - 9535
+    - 9802
+  label: 奪液無汗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d35
+    span:
+    - body
+    - 9802
+    - 10281
+  label: 補瀉兼施
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d36
+    span:
+    - body
+    - 10281
+    - 10378
+  label: 藥煩
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d37
+    span:
+    - body
+    - 10378
+    - 10454
+  label: 停藥
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d38
+    span:
+    - body
+    - 10454
+    - 10662
+  label: 虛煩似狂
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d39
+    span:
+    - body
+    - 10662
+    - 10749
+  label: 神虛譫語
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d40
+    span:
+    - body
+    - 10749
+    - 10873
+  label: 奪氣不語
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d41
+    span:
+    - body
+    - 10873
+    - 10994
+  label: 老少異治
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d42
+    span:
+    - body
+    - 10994
+    - 11414
+  label: 妄投破氣藥論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d43
+    span:
+    - body
+    - 11414
+    - 11530
+  label: 妄投補劑論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d44
+    span:
+    - body
+    - 11530
+    - 12481
+  label: 妄投寒涼藥論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d45
+    span:
+    - body
+    - 12481
+    - 13133
+  label: 大便
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d46
+    span:
+    - body
+    - 13133
+    - 13416
+  label: 小便
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d47
+    span:
+    - body
+    - 13416
+    - 13667
+  label: 前後虛實
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d48
+    span:
+    - body
+    - 13667
+    - 13823
+  label: 脈厥
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d49
+    span:
+    - body
+    - 13823
+    - 14154
+  label: 脈證不應
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d50
+    span:
+    - body
+    - 14154
+    - 14632
+  label: 體厥
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg004_jc_001-d3d51
+    span:
+    - body
+    - 14632
+    - 15412
+  label: 乘除
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 18054
+  label: 下卷
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 991
+  label: 雜氣論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d3
+    span:
+    - body
+    - 991
+    - 1212
+  label: 論氣盛衰
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d4
+    span:
+    - body
+    - 1212
+    - 1634
+  label: 論氣所傷不同
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d5
+    span:
+    - body
+    - 1634
+    - 1787
+  label: 蛔厥
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d6
+    span:
+    - body
+    - 1787
+    - 1926
+  label: 呃逆
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d7
+    span:
+    - body
+    - 1926
+    - 2429
+  label: 似表非表似里非里
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d8
+    span:
+    - body
+    - 2429
+    - 2621
+  label: 論食
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d9
+    span:
+    - body
+    - 2621
+    - 2883
+  label: 論飲
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d10
+    span:
+    - body
+    - 2883
+    - 3242
+  label: 損復
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d11
+    span:
+    - body
+    - 3242
+    - 3427
+  label: 標本
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d12
+    span:
+    - body
+    - 3427
+    - 3881
+  label: 行邪伏邪之別
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d13
+    span:
+    - body
+    - 3881
+    - 4756
+  label: 應下諸證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d14
+    span:
+    - body
+    - 4756
+    - 5039
+  label: 應補諸證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d15
+    span:
+    - body
+    - 5039
+    - 5490
+  label: 論陰證世間罕有
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d16
+    span:
+    - body
+    - 5490
+    - 5863
+  label: 論陽證似陰
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d17
+    span:
+    - body
+    - 5863
+    - 6000
+  label: 舍病治藥
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d18
+    span:
+    - body
+    - 6000
+    - 6249
+  label: 舍病治弊
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d19
+    span:
+    - body
+    - 6249
+    - 6831
+  label: 論輕疫誤治每成痼疾
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d20
+    span:
+    - body
+    - 6831
+    - 7347
+  label: 肢體浮腫
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d21
+    span:
+    - body
+    - 7347
+    - 7604
+  label: 服寒劑反熱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d22
+    span:
+    - body
+    - 7604
+    - 8339
+  label: 知一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d23
+    span:
+    - body
+    - 8339
+    - 8761
+  label: 四損不可正治
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d24
+    span:
+    - body
+    - 8761
+    - 9064
+  label: 勞復食復自復
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d25
+    span:
+    - body
+    - 9064
+    - 9139
+  label: 感冒兼疫
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d26
+    span:
+    - body
+    - 9139
+    - 9243
+  label: 瘧疫兼證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d27
+    span:
+    - body
+    - 9243
+    - 9368
+  label: 溫瘧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d28
+    span:
+    - body
+    - 9368
+    - 9631
+  label: 疫痢兼證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d29
+    span:
+    - body
+    - 9631
+    - 9949
+  label: 婦人時疫
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d30
+    span:
+    - body
+    - 9949
+    - 10289
+  label: 妊娠時疫
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d31
+    span:
+    - body
+    - 10289
+    - 10748
+  label: 小兒時疫
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d32
+    span:
+    - body
+    - 10748
+    - 11403
+  label: 主客交
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d33
+    span:
+    - body
+    - 11403
+    - 11681
+  label: 調理法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d34
+    span:
+    - body
+    - 11681
+    - 13244
+  label: 統論疫有九傳治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d35
+    span:
+    - body
+    - 13244
+    - 13617
+  label: 正名
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d36
+    span:
+    - body
+    - 13617
+    - 15777
+  label: 傷寒例正誤
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg004_jc_003-d4d37
+    span:
+    - body
+    - 15777
+    - 18054
+  label: 諸家溫疫正誤
+  type: section
+  level: 2
+hash: sha256:8d73285412b4096633b75fb07c37389acafa70b0f373bad6c5e6d7d87bd2a014
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
