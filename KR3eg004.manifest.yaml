@@ -22,8 +22,8 @@ assets:
   - {seq: 3, filename: KR3eg004_003.yaml, hash: 'sha256:e8a659fcb5d85789764b87699849a52b21d3ce2cbdd170db96342a10be8e56a1'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eg004_000.markers.yaml, hash: 'sha256:478c9af6a96503af4a805888543edb6f224a5b5656c35b94d08c6d4fced34bc4'}
-  - {seq: 1, role: markers, filename: assets/KR3eg004_001.markers.yaml, hash: 'sha256:27962cf4f20a487e089ed94d31cc8129d8141f14243b6f0e4a0632593cf0ae4d'}
-  - {seq: 3, role: markers, filename: assets/KR3eg004_003.markers.yaml, hash: 'sha256:485d63ab8d965fef5c5f741f20d6d467d0e71926db7296e7d6994a1516229aa1'}
+  - {seq: 1, role: markers, filename: assets/KR3eg004_001.markers.yaml, hash: 'sha256:c2bf3986eb9aec4a7aa24fb593cb065c9680d410b2a5c24c034c786d9a127982'}
+  - {seq: 3, role: markers, filename: assets/KR3eg004_003.markers.yaml, hash: 'sha256:e4d5be15423f979d6d6380e31def641e87352a424085fee624178814a40fa576'}
 table_of_contents:
 - ref:
     seq: 0
@@ -915,7 +915,7 @@ table_of_contents:
   label: 諸家溫疫正誤
   type: section
   level: 2
-hash: sha256:8a2a958834050a68931c2b54f8dc6ad87531b3f07a468f08c0d00a45e944b842
+hash: sha256:76f4531df9d94310c309dbf0e34350ef6983e4244afbee56590451efa395156b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

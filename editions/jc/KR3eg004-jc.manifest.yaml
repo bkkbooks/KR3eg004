@@ -22,8 +22,8 @@ assets:
   - {seq: 3, filename: KR3eg004_003-jc.yaml, hash: 'sha256:71aafb10a3aea425112411358e3ca5b9e2913d47de329567175fb396e866c6b9'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eg004_000-jc.markers.yaml, hash: 'sha256:8cd0f0150b206da8570b9c31ddcfe273a0a09794a71b93080c093ba983d051a3'}
-  - {seq: 1, role: markers, filename: assets/KR3eg004_001-jc.markers.yaml, hash: 'sha256:bb2527bd06a7e2c5c37f2ea6da761aa523a27039658d9fd095a56f371310e963'}
-  - {seq: 3, role: markers, filename: assets/KR3eg004_003-jc.markers.yaml, hash: 'sha256:63ac500271da534e32fe331a061fed42c38072d06e01406698033d379d5dd3aa'}
+  - {seq: 1, role: markers, filename: assets/KR3eg004_001-jc.markers.yaml, hash: 'sha256:bdc166933095bb47916372a05f4993d4c5fb4057e3051736b7256530ccedf0ff'}
+  - {seq: 3, role: markers, filename: assets/KR3eg004_003-jc.markers.yaml, hash: 'sha256:daad6b16d501cd1a8780280530a175abd912f1db2002c28a270e56da84f6d8ab'}
 table_of_contents:
 - ref:
     seq: 0
@@ -915,4 +915,4 @@ table_of_contents:
   label: 諸家溫疫正誤
   type: section
   level: 2
-hash: sha256:5ce95bd7e517cdbed694f8d23e60a23fb88c698efed59034b91fd79a005171c0
+hash: sha256:163ff45cfc97655cec1c48b54de3e8b476792234c54a4e16fe926a2b49039842
